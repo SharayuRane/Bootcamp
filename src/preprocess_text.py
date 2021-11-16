@@ -31,3 +31,6 @@ def tokenize_text(text):
 
 def something():
     return 2
+
+def trial_1():
+    return True
